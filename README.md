@@ -15,3 +15,8 @@ At first, I should be familiar with this markdown syntax.
 It offers even [download PDF version](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 This will be your quick reference sheet.
 - [ ] Is there any quick reference card?
+
+I'm considering to use [GitHub Pages](https://pages.github.com/).
+It will be my first pulic website.
+- [ ] User site: [justinjslr](https://justinjslr.github.io/)
+- [ ] Project site: [hello-world](https://justinjslr.github.io/hello-world/)
