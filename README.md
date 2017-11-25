@@ -20,3 +20,7 @@ I'm considering to use [GitHub Pages](https://pages.github.com/).
 It will be my first pulic website.
 - [ ] User site: [justinjslr](https://justinjslr.github.io/)
 - [ ] Project site: [hello-world](https://justinjslr.github.io/hello-world/)
+
+## What about use Gist?
+
+There is a place to share code, notes and snippets instantly. [**GitHub**Gist](https://gist.github.com/)
