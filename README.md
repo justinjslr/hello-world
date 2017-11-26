@@ -16,11 +16,19 @@ It offers even [download PDF version](https://guides.github.com/pdfs/markdown-ch
 This will be your quick reference sheet.
 - [ ] Is there any quick reference card?
 
-I'm considering to use [GitHub Pages](https://pages.github.com/).
-It will be my first pulic website.
-- [ ] User site: [justinjslr](https://justinjslr.github.io/)
-- [ ] Project site: [hello-world](https://justinjslr.github.io/hello-world/)
+## Writing Journal in GitHub
 
-## What about use Gist?
+### GitHub Pages
+
+I setup my simple website using by [GitHub Pages](https://pages.github.com/).
+These are my first websites in public area.
+- [ ] User site: [justinjslr](https://justinjslr.github.io/)
+- [x] Project site: [hello-world](https://justinjslr.github.io/hello-world/)
+
+### GitHub Gist
 
 There is a place to share code, notes and snippets instantly. [**GitHub**Gist](https://gist.github.com/)
+
+### Wiki in GitHub repository
+
+Each repository can have wiki page to lay out the roadmap of the project, show the current status, and document software better, together.
