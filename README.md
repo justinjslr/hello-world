@@ -14,6 +14,7 @@ At first, I should be familiar with this markdown syntax.
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good reference.
 It offers even [download PDF version](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 This will be your quick reference sheet.
+
 - [ ] Is there any quick reference card?
 
 ## Writing Journal in GitHub
@@ -22,8 +23,12 @@ This will be your quick reference sheet.
 
 I setup my simple website using by [GitHub Pages](https://pages.github.com/).
 These are my first websites in public area.
-- [ ] User site: [justinjslr](https://justinjslr.github.io/)
-- [x] Project site: [hello-world](https://justinjslr.github.io/hello-world/)
+
+- User site: [justinjslr](https://justinjslr.github.io/), For writing journals about my activities.
+- Project site: [hello-world](https://justinjslr.github.io/hello-world/)
+
+I've setup my basic [User](https://justinjslr.github.io/) and [Project](https://justinjslr.github.io/hello-world/) site.
+Since GitHub Pages are powered by [Jekyll](https://jekyllrb.com/docs/quickstart/), I'll improve them by following [Blogging with Jekyll](https://help.github.com/articles/using-jekyll-with-pages) guide.
 
 ### GitHub Gist
 
