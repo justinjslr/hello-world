@@ -9,17 +9,15 @@ Since it is well formed and supported, I'll keep this page to the last moments.
 
 ## What should I do next?
 
+There is a YouTube channel, [GitHub Training & Guides](https://www.youtube.com/githubguides).
+It is worthy of watching!
+
 ### GitHub Markdown
 
 At first, I should be familiar with markdown syntax to write something.<br>
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a good reference.
 It offers even downloadable [PDF version](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 This will be your quick reference sheet.
-
-### GitHub Training & Guides
-
-There is [Youtube Channel](https://www.youtube.com/githubguides) for GitHub training and guides.
-It is worthy of watching!
 
 ## Writing Journal in GitHub
 
