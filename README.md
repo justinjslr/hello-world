@@ -4,8 +4,8 @@ This is a result of following GitHub Guides, [Hello World](https://guides.github
 
 ## First step in GitHub
 
-I'd like to share my activities through this GitHub site.
-Since it is well formed and supported, I'll keep this page to the last moments.
+I'd like to share my activities on this GitHub site.
+Since it is well formed and supported, I'll keep this page for the last moments.
 
 ## What should I do next?
 
@@ -23,7 +23,7 @@ This will be your quick reference sheet.
 
 ### GitHub Pages
 
-I can make my simple websites using by [GitHub Pages](https://pages.github.com/).
+I can make my simple websites using [GitHub Pages](https://pages.github.com/).
 These are my first websites in public area.
 
 - User site: [justinjslr](https://justinjslr.github.io/), For writing journals about my activities.
@@ -34,8 +34,8 @@ Since GitHub Pages are powered by [Jekyll](https://jekyllrb.com/docs/quickstart/
 
 ### GitHub Gist
 
-There is a place to share code, notes and snippets instantly. [**GitHub**Gist](https://gist.github.com/)
+There is a place to share code, notes, and snippets instantly. [**GitHub** Gist](https://gist.github.com/)
 
 ### Wiki in GitHub repository
 
-Each repository can have wiki page to lay out the roadmap of the project, show the current status, and document software better, together.
+Each repository can have a wiki page to lay out the roadmap of the project, show the current status, and document software better, together.
