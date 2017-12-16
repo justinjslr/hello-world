@@ -19,7 +19,7 @@ At first, I should be familiar with markdown syntax to write something.<br>
 It offers even downloadable [PDF version](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 This will be your quick reference sheet.
 
-## Writing Journal in GitHub
+## Writing Journal on GitHub
 
 ### GitHub Pages
 
@@ -29,8 +29,8 @@ These are my first websites in public area.
 - User site: [justinjslr](https://justinjslr.github.io/), For writing journals about my activities.
 - Project site: [hello-world](https://justinjslr.github.io/hello-world/)
 
-I've setup my basic [User](https://justinjslr.github.io/) and [Project](https://justinjslr.github.io/hello-world/) site.
-Since GitHub Pages are powered by [Jekyll](https://jekyllrb.com/docs/quickstart/), I'll improve them by following [Blogging with Jekyll](https://help.github.com/articles/using-jekyll-with-pages) guide.
+I've set up my basic [User](https://justinjslr.github.io/) and [Project](https://justinjslr.github.io/hello-world/) site.
+Since GitHub Pages are powered by [Jekyll](https://jekyllrb.com/docs/quickstart/), I'll improve them by the following [Blogging with Jekyll](https://help.github.com/articles/using-jekyll-with-pages) guide.
 
 ### GitHub Gist
 
